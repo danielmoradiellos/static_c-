@@ -24,6 +24,6 @@
                                                     obj2.i = 3; 
                                                         
                                                           // prints value of i 
-						    cout << obj1.i<<" "<<obj2.i;    
+						    cout << obj1.i<<" "<<obj2.i << endl;    
                                                             } 
 
